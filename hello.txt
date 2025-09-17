@@ -1,2 +1,4 @@
 This is a simple txt file for learning git.
 Lets say we have version 0 of some project in this file.
+
+This is version v1 of our project.
